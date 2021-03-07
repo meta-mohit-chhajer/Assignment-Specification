@@ -22,7 +22,7 @@ public class StringOperation {
 	 * @return 1 if Both String are equal else 0
 	 */
 	
-	public Integer StringCmp(String str1,String str2)
+	public int StringCmp(String str1,String str2)
 	{
 		int l1=str1.length();
 		int l2=str2.length();
